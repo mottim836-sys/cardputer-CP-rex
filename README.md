@@ -17,6 +17,12 @@ To assemble this project, you will need:
 * **Stabilizer:** 1x AMS1117-3.3
 * **LED:** YL-ED0805YG
 
+## Modules
+* **PN532**-rfid
+* **cc1101**-433Mhz
+* **nrf24**-2.4Ghz
+* **W5500**-LAN
+
 ## Board Layout
 ![PCB Design](view/pcb.jpg)
 
