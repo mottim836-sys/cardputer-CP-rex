@@ -11,7 +11,7 @@ This board enhances the capabilities of the M5Stack Cardputer for network auditi
 
 ## Hardware Requirements
 To assemble this project, you will need:
-* **Base:** M5Stack Cardputer ADV
+* **Base:** M5Stack Cardputer ADV [Aliexpress](https://www.aliexpress.com/item/1005009896470580.html?spm=a2g0o.order_list.order_list_main.5.32bb1802YxDRel)
 * **Capacitors:** 2x 50-100uF 0805, 1x 10uF 0805
 * **Resistor:** 1x 1kΩ
 * **Stabilizer:** 1x AMS1117-3.3
@@ -19,10 +19,10 @@ To assemble this project, you will need:
 * **Switch:** 1x dip*5
 
 ## Modules
-* **PN532**-rfid
-* **cc1101**-433Mhz
-* **nrf24**-2.4Ghz
-* **W5500**-LAN
+* **PN532**-rfid Aliexpress
+* **cc1101**-433Mhz Aliexpress
+* **nrf24**-2.4Ghz Aliexpress
+* **W5500**-LAN Aliexpress
 
 ## Board Layout
 ![PCB Design](view/pcb.jpg)
