@@ -17,6 +17,6 @@ To assemble this project, you will need:
 * **LED:** YL-ED0805YG
 
 ## Board Layout
-![PCB Design](view/plate.jpg)
+![PCB Design](view/pcb.jpg)
 
 > **Current Status (v2.2):** We are currently optimizing power tracks, fixing minor short circuits, and polishing the final layout.
