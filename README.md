@@ -1,5 +1,5 @@
 # cardputer-CP-rex
-Printed circuit board and housing for the Advance M5Stack cardputer
+PCB design and housing for the Advance M5Stack cardputer
 
 This board's capabilities for the m5stack cardputer adv
 include network auditing, copying RFID access keys, 
