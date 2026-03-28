@@ -15,7 +15,8 @@ To assemble this project, you will need:
 * **Capacitors:** 2x 50-100uF 0805, 1x 10uF 0805
 * **Resistor:** 1x 1kΩ
 * **Stabilizer:** 1x AMS1117-3.3
-* **LED:** YL-ED0805YG
+* **LED:** 1x YL-ED0805YG
+* **Switch:** 1x dip*5
 
 ## Modules
 * **PN532**-rfid
