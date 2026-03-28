@@ -6,7 +6,11 @@ include network auditing, copying RFID access keys,
 and viewing 433 MHz and 2.4 GHz networks.
 
 ## hardware
-Hardware: m5stack cardputer ADV, 50-100uFx2 capacitor, 10uF capacitor, 1kΩ resistor, YLED0805YG
+Hardware: 
+  m5stack cardputer ADV, 
+  50-100uFx2 capacitor, 
+  10uF capacitor, 1kΩ resistor, 
+  YLED0805YG
 
 ![photo board](view/plate.jpg)
 This is version 2.2. We're now making the power tracks thicker, 
