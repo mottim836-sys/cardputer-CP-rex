@@ -1,5 +1,6 @@
-The M5Stick Cardputer is a credit-card-sized multipurpose computer that is a dream for developers, 
-hackers, and DIY enthusiasts. Built around the ESP32-S3 chip, 
-it combines a full physical keyboard, 
-a TFT display, and various sensors into one compact, 
-rugged shell.
+# The M5Stick Cardputer
+* is a credit-card-sized multipurpose computer that is a dream for developers, 
+* hackers, and DIY enthusiasts. Built around the ESP32-S3 chip, 
+* it combines a full physical keyboard, 
+* a TFT display, and various sensors into one compact, 
+* rugged shell.
