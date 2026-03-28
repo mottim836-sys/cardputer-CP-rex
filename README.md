@@ -12,8 +12,9 @@ This board enhances the capabilities of the M5Stack Cardputer for network auditi
 ## Hardware Requirements
 To assemble this project, you will need:
 * **Base:** M5Stack Cardputer ADV
-* **Capacitors:** 2x 50-100uF, 1x 10uF
+* **Capacitors:** 2x 50-100uF 0805, 1x 10uF 0805
 * **Resistor:** 1x 1kΩ
+* **stabilizer:** 1x AMS1117-3.3
 * **LED:** YL-ED0805YG
 
 ## Board Layout
