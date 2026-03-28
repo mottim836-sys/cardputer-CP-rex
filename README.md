@@ -19,10 +19,10 @@ To assemble this project, you will need:
 * **Switch:** 1x dip*5
 
 ## Modules
-* **PN532**-rfid Aliexpress
-* **cc1101**-433Mhz Aliexpress
-* **nrf24**-2.4Ghz Aliexpress
-* **W5500**-LAN Aliexpress
+* **PN532**-rfid [Aliexpress](https://www.aliexpress.com/item/1005006288951025.html?spm=a2g0o.cart.0.0.202b38dasSFMRg&mp=1&pdp_npi=6%40dis%21UAH%21UAH%20180.35%21UAH%20172.69%21%21UAH%20172.69%21%21%21%40211b61ae17747349933717697e8784%2112000036625067447%21ct%21UA%214564123091%21%211%210%21)
+* **cc1101**-433Mhz [Aliexpress](https://www.aliexpress.com/item/1005009890417155.html?spm=a2g0o.cart.0.0.202b38dasSFMRg&mp=1&pdp_npi=6%40dis%21UAH%21UAH%20233.08%21UAH%2095.09%21%21UAH%2095.09%21%21%21%40211b61ae17747349933717697e8784%2112000050491984925%21ct%21UA%214564123091%21%211%210%21)
+* **nrf24**-2.4Ghz [Aliexpress](https://www.aliexpress.com/item/1005005482762019.html?spm=a2g0o.productlist.main.1.584424f10hTb87&algo_pvid=2fbcab80-47b2-4141-8b1d-debf448708a8&algo_exp_id=2fbcab80-47b2-4141-8b1d-debf448708a8-0&pdp_ext_f=%7B%22order%22%3A%22516%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21UAH%2182.87%2182.87%21%21%211.72%211.72%21%40211b629217747350640176107e7e0a%2112000033261653881%21sea%21UA%214564123091%21X%211%210%21n_tag%3A-29919%3Bd%3Acde5765d%3Bm03_new_user%3A-29895&curPageLogUid=UzJHcjzzOZ75&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005482762019%7C_p_origin_prod%3A)
+* **W5500**-LAN [Aliexpress](https://www.aliexpress.com/item/1005009737211405.html?spm=a2g0o.cart.0.0.202b38dasSFMRg&mp=1&pdp_npi=6%40dis%21UAH%21UAH%20202.15%21UAH%20202.15%21%21UAH%20202.15%21%21%21%40211b61ae17747349933717697e8784%2112000049996325331%21ct%21UA%214564123091%21%211%210%21)
 
 ## Board Layout
 ![PCB Design](view/pcb.jpg)
