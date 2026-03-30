@@ -27,4 +27,4 @@ To assemble this project, you will need:
 ## Board Layout
 ![PCB Design](view/pcb.jpg)
 
-> **Current Status (v2.4):** We are currently optimizing power tracks, fixing minor short circuits, and polishing the final layout.
+> **Current Status (v2.5)**
