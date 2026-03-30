@@ -25,6 +25,6 @@ To assemble this project, you will need:
 * **W5500**-LAN [Aliexpress](https://www.aliexpress.com/item/1005009737211405.html?spm=a2g0o.cart.0.0.202b38dasSFMRg&mp=1&pdp_npi=6%40dis%21UAH%21UAH%20202.15%21UAH%20202.15%21%21UAH%20202.15%21%21%21%40211b61ae17747349933717697e8784%2112000049996325331%21ct%21UA%214564123091%21%211%210%21)
 
 ## Board Layout
-![PCB Design](view/pcb.jpg)
+![PCB Design](view/PCB.jpg)
 
 > **Current Status (v2.5)**
